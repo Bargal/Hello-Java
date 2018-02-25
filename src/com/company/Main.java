@@ -4,6 +4,9 @@
 
 package com.company;
 
+import java.awt.*;
+import java.util.concurrent.SynchronousQueue;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -14,6 +17,7 @@ public class Main {
             a++;
                     }
         System.out.println("Yeah Good :) ");
+        System.out.println("Java at now is really close to C++ :P ");
 	// write your code here
     }
 }
