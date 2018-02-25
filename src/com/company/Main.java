@@ -14,10 +14,13 @@ public class Main {
         int a = 1;
         for (a=0; a<10; a++) {
             System.out.println(a);
-            a++;
-                    }
+          }
         System.out.println("Yeah Good :) ");
         System.out.println("Java at now is really close to C++ :P ");
-	// write your code here
+        // ok, I think Java will be good language to learn, when I will boring c++.... maybe ;)
+        System.out.println(a);
+        System.out.println("I'm interested in about 'a' in previous line...");
+
+
     }
 }
