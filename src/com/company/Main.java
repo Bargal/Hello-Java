@@ -12,7 +12,8 @@ public class Main {
         for (a=0; a<10; a++) {
             System.out.println(a);
             a++;
-        }
+                    }
+        System.out.println("Yeah Good :) ");
 	// write your code here
     }
 }
